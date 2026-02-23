@@ -6,6 +6,8 @@ I'm a backend developer with over 10 years in technology. I specialize in Magent
 
 My edge isn't just technical: I come from support, project management, and running my own company. I understand how a business works before writing a single line of code.
 
+> Most of my work lives in private repositories — enterprise projects under NDA for companies like **HiperDino (Dinosol)**, **Hiberus**, and **Squaads**. What you see here is a small sample of personal and open-source work.
+
 ### What I work with
 
 **Backend** &nbsp; PHP · Magento 2 · Node.js · Python · REST APIs · GraphQL
